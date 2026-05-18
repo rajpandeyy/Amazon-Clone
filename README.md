@@ -1,3 +1,4 @@
 # Amazon-Clone
-This is my first Gitr Repositrory.
+This is my first Git Repositrory.
+<br>
 Author - Raj Pandey
